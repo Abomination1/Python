@@ -1,0 +1,15 @@
+coloredlogs
+cycler
+future
+humanfriendly
+iso8601
+kiwisolver
+matplotlib
+numpy
+pyparsing
+pyserial
+python-dateutil
+pytz
+PyYAML
+scipy
+six
